@@ -37,7 +37,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/nishant-ola-490712228/).
 - Data structures and Algorithms
 
 ## Projects
-- coming soon
+- https://guarded-mesa-32444.herokuapp.com/
 
 ## Contact me
 
