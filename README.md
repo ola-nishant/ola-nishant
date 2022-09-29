@@ -35,6 +35,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/nishant-ola-490712228/).
 - Kotlin
 - Python
 - Data structures and Algorithms
+- MERN stack
 
 ## Projects
 - https://guarded-mesa-32444.herokuapp.com/
