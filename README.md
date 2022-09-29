@@ -4,7 +4,7 @@ I am **Nishant Ola**.
 
 ## About me
 
-I am a first year student at USICT, Delhi.
+I am a second year student at USICT, Delhi.
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/nishant-ola-490712228/).
 
