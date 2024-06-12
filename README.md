@@ -173,7 +173,7 @@ hobbies: ["Books", "Sleeping", "Travelling", "Driving"]
 
 > 📦 334.7 kB Used in GitHub's Storage 
  > 
-> 🏆 396 Contributions in the Year 2024
+> 🏆 58 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
